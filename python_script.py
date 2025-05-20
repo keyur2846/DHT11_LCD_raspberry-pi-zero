@@ -21,4 +21,4 @@ while True:
 
     except RuntimeError as e:
         print(f"Reading error: {e.args[0]}")
-        time.sleep(2)
+        time.sleep(5)
