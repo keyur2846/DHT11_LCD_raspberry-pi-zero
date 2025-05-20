@@ -25,5 +25,4 @@ This project reads **temperature and humidity** data using a **DHT11 sensor** an
 
 ---
 
-## 🗂️ Project Structure
 
