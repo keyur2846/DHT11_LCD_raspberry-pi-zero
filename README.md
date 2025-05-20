@@ -24,5 +24,5 @@ This project reads **temperature and humidity** data using a **DHT11 sensor** an
 - The entire system can run off a battery using the **TP4056 module** for charging and protection.
 
 ---
-
+![Wiring Diagram](Project Images/components.jpg)
 
